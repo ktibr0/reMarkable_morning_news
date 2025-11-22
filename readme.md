@@ -165,7 +165,7 @@ The workflow is built modularly — you can add any news processing steps:
 The key is to preserve the "last mile": PDF generation via Gotenberg and upload to reMarkable via rmapi.
 
 ## 📚 Useful Links
-- [reMarkable tablet] (https://github.com/topics/remarkable-tablet)
+- [reMarkable tablet](https://github.com/topics/remarkable-tablet)
 - [rmapi - reMarkable Cloud API](https://github.com/ddvk/rmapi)
 - [Gotenberg - PDF generation service](https://github.com/gotenberg/gotenberg)
 - [n8n Documentation](https://docs.n8n.io/)
